@@ -15,7 +15,8 @@
 <br>
 <br>
 
-## Players can only fill one number on their scorecard per turn.
+## Rules
+Players can only fill one number on their scorecard per turn.
 If a player rolls 10 of a kind (all ten dice showing the same value), they can choose to fill any number on their scorecard with that value.
 If a player cannot fill any number on their scorecard after three rolls, they must choose a number to mark with an "X" and cannot score any points for that number for the remainder of the game.
 

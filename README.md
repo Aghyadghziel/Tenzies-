@@ -1,12 +1,9 @@
-## Meme Generator
+## Tenzies Game
 
-## How to make your meme ?
+## How to Play
 
-#### 1- fill the top text
+####  Tenzies is a simple and fun dice game for all ages that can be played with two or more players. The objective of the game is to be the first player to fill all ten numbers on your scorecard with the same value.
 
-#### 2- fill the bottom text
-
-#### 3- Get a new meme image
 
 <br>
 
@@ -18,13 +15,15 @@
 <br>
 <br>
 
-## About My Project
+## Players can only fill one number on their scorecard per turn.
+If a player rolls 10 of a kind (all ten dice showing the same value), they can choose to fill any number on their scorecard with that value.
+If a player cannot fill any number on their scorecard after three rolls, they must choose a number to mark with an "X" and cannot score any points for that number for the remainder of the game.
 
 At Meme Generator our goal is to create a funny memes💜
 
 #### Tools and Skils !
 
-Html, Css, Javascript, React.js, Api Meme Generator 🎉
+React.js 🎉
 # Meme-Generator--React.js
 
 
